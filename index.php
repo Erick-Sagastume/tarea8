@@ -9,6 +9,15 @@ $req = mysqli_query($conex, $sql);
     <meta charset="UTF-8">
     <title>Programacion WEB</title>
     <link rel="stylesheet" href="estilos.css">
+
+        <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="logo.png">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/custom.css">
+	<script src="js/modernizr.js"></script>
+    
 </head>
 <body>
     <div class="wrap">
