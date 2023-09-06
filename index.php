@@ -10,17 +10,18 @@ $req = mysqli_query($conex, $sql);
     <title>Programacion WEB</title>
     <link rel="stylesheet" href="estilos.css">
 
-        <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="logo.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/custom.css">
-	<script src="js/modernizr.js"></script>
+    <script src="js/modernizr.js"></script>
     
 </head>
 <body>
-    <div class="wrap">
+    <div class="wrap" align="center">
+    <img class="img-fluid" align="center" src="logo.png" alt="" />
         <h1>Cuestionarios</h1>
         <ul class="votacion index">
         <?php
