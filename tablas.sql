@@ -21,3 +21,5 @@ INSERT INTO  `opciones` (`id` ,`id_encuesta` ,`nombre` ,`valor`)
 VALUES (NULL ,  '1',  'Muy Bueno',  '14')
 , (NULL ,  '1',  'Bueno',  '6')
 , (NULL ,  '1',  'Malo',  '2');
+
+#se ingresaron datos predeterminados para prueba de conexion a la base de datos
